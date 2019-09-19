@@ -1,5 +1,5 @@
 {
-    "orgName": "wade.wegner Example",
+    "orgName": "sfdx-travisci",
     "edition": "Developer",
     "orgPreferences" : {
         "enabled": ["S1DesktopEnabled"]
